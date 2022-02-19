@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.bgContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.popularText {
+  font-family: 'Lobster';
+  font-size: 35px;
+}
+
+.filterListContainer {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 30%;
+}
